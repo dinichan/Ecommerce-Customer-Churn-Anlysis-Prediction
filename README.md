@@ -10,7 +10,7 @@ The data set that I use is publicly available on BigQuery Public Dataset.
 This project will be divided into three parts:
 
 - Churn Labeling 
-- Churn Prediction - 
+- Churn Prediction 
 - Model Assessment & Implementation
 
 
